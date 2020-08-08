@@ -9,6 +9,11 @@ public class RestAPITest {
 	public void jiraAPI()
 	{
 		System.out.println("jiraAPI");
+		System.out.println("jiraAPI");
+		System.out.println("jiraAPI");
+		System.out.println("jiraAPI");
+		System.out.println("jiraAPI");
+		System.out.println("jiraAPI");
 	}
 	
 	@Test
